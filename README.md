@@ -32,4 +32,4 @@ Conclusiones
 
 El análisis de datos de Instacart reveló patrones importantes en el comportamiento de compra de los clientes. Estos insights pueden ser utilizados para optimizar las estrategias de marketing, gestión de inventarios y mejorar la experiencia del cliente.
 
-__Ejecuta el proyecto [aquí](Análisis Instacart.ipynb "Title")__
+Ejecuta el proyecto [aquí](/Análisis Instacart.ipynb/)
