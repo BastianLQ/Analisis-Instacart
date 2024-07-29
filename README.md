@@ -1,5 +1,5 @@
 # Analisis-Instacart
-__Proyecto de análisis de datos a la plataforma de delivery Instacart__
+__Proyecto de análisis a la plataforma de delivery Instacart, análisis exploratiorio y visualización de datos__
 
 <image src="https://github.com/BastianLQ/Analisis-Instacart/blob/main/N3.jpg" alt="Collage de gráficos">
   
