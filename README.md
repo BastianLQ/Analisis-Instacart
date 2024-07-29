@@ -11,9 +11,9 @@ Este proyecto tiene como objetivo analizar datos de Instacart para extraer infor
 - Investigar otros comportamientos relevantes de los clientes.
   
 ## Herramientas Utilizadas
-- Lenguaje de Programación: Python
-- Entorno de Desarrollo: Jupyter Notebook
-- Bibliotecas: pandas, matplotlib
+- Lenguaje de Programación: __Python__
+- Entorno de Desarrollo: __Jupyter Notebook__
+- Bibliotecas: __pandas, matplotlib__
 
 ## Proceso del Proyecto
 - Extracción de Datos: Los datos fueron extraídos de cinco datasets proporcionados por Instacart.
@@ -30,6 +30,6 @@ Este proyecto tiene como objetivo analizar datos de Instacart para extraer infor
 
 ## Conclusiones
 
-El análisis de datos de Instacart reveló patrones importantes en el comportamiento de compra de los clientes. Estos insights pueden ser utilizados para optimizar las estrategias de marketing, gestión de inventarios y mejorar la experiencia del cliente.
+__El análisis de datos de Instacart reveló patrones importantes en el comportamiento de compra de los clientes. Estos insights pueden ser utilizados para optimizar las estrategias de marketing, gestión de inventarios y mejorar la experiencia del cliente__.
 
 _Ejecuta el proyecto [aquí](https://github.com/BastianLQ/Analisis-Instacart/blob/main/An%C3%A1lisis%20Instacart.ipynb)_
