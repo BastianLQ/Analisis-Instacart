@@ -33,7 +33,8 @@ Este proyecto tiene como objetivo analizar datos de Instacart para extraer infor
 - Comportamiento de clientes: Insights adicionales sobre cómo los clientes interactúan con los productos y realizan sus pedidos.
 
 ## Conclusiones
-
 __El análisis de datos de Instacart reveló patrones importantes en el comportamiento de compra de los clientes. Estos insights pueden ser utilizados para optimizar las estrategias de marketing, gestión de inventarios y mejorar la experiencia del cliente__.
 
 ## Ejecuta el proyecto [aquí](https://github.com/BastianLQ/Analisis-Instacart/blob/main/An%C3%A1lisis%20Instacart.ipynb)
+Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba
+
