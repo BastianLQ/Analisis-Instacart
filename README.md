@@ -6,7 +6,7 @@ __Proyecto de análisis a la plataforma de delivery Instacart, análisis explora
 _Fragmentos del notebook, para ver proyecto completo hacer click [aquí](https://github.com/BastianLQ/Analisis-Instacart/blob/main/An%C3%A1lisis%20Instacart.ipynb)_
 
 ## Descripción del Proyecto
-Este proyecto tiene como objetivo analizar datos de Instacart para extraer información valiosa sobre el comportamiento de los clientes y las tendencias de los productos. Utilizando cinco datasets proporcionados por Instacart, se llevó a cabo un proceso de limpieza, análisis y visualización de datos para identificar patrones y tendencias clave.
+Este proyecto tiene como objetivo analizar datos de Instacart para extraer información valiosa sobre el comportamiento de los clientes y las tendencias de los productos. Utilizando [cinco datasets](https://drive.google.com/drive/folders/11ludpzThvf-xB6LfZW_xzCBK1Z91M_KA?usp=sharing) proporcionados por Instacart, se llevó a cabo un proceso de limpieza, análisis y visualización de datos para identificar patrones y tendencias clave.
 
 ## Objetivos
 - Identificar los productos más vendidos.
@@ -20,7 +20,7 @@ Este proyecto tiene como objetivo analizar datos de Instacart para extraer infor
 - Bibliotecas: __pandas, matplotlib__
 
 ## Proceso del Proyecto
-- Extracción de Datos: Los datos fueron extraídos de cinco datasets proporcionados por Instacart.
+- Extracción de Datos: Los datos fueron extraídos de [cinco datasets](https://drive.google.com/drive/folders/11ludpzThvf-xB6LfZW_xzCBK1Z91M_KA?usp=sharing) proporcionados por Instacart.
 - Limpieza de Datos: Se realizaron varias operaciones de limpieza, incluyendo manejo de valores nulos, normalización y formateo de datos.
 - Análisis Exploratorio de Datos (EDA): Utilizando pandas se exploraron los datos para obtener una comprensión inicial.
 - Visualización de Datos: Con matplotlib, se generaron visualizaciones para ilustrar los hallazgos clave del análisis.
