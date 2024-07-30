@@ -20,7 +20,7 @@ Este proyecto tiene como objetivo analizar datos de Instacart para extraer infor
 - Bibliotecas: __pandas, matplotlib__
 
 ## Proceso del Proyecto
-- Extracción de Datos: Los datos fueron extraídos de [cinco datasets](https://drive.google.com/drive/folders/11ludpzThvf-xB6LfZW_xzCBK1Z91M_KA?usp=sharing) proporcionados por Instacart.
+- Extracción de Datos: Los datos fueron extraídos de [cinco datasets](https://drive.google.com/drive/folders/11ludpzThvf-xB6LfZW_xzCBK1Z91M_KA?usp=sharing) proporcionados por Instacart _(los datasets están en Drive porque superan el peso máximo permitido de GitHub)_
 - Limpieza de Datos: Se realizaron varias operaciones de limpieza, incluyendo manejo de valores nulos, normalización y formateo de datos.
 - Análisis Exploratorio de Datos (EDA): Utilizando pandas se exploraron los datos para obtener una comprensión inicial.
 - Visualización de Datos: Con matplotlib, se generaron visualizaciones para ilustrar los hallazgos clave del análisis.
