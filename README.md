@@ -2,7 +2,9 @@
 __Proyecto de análisis a la plataforma de delivery Instacart, análisis exploratiorio y visualización de datos__
 
 <image src="https://github.com/BastianLQ/Analisis-Instacart/blob/main/N3.jpg" alt="Collage de gráficos">
-  
+
+<p>Dale un vistazo <a href="https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20Instacart.html" target="_blank">freeCodeCamp</a>.</p>
+
 _Fragmentos del notebook, para ver proyecto completo hacer click [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20Instacart.html)_
 
 ## Descripción del Proyecto
