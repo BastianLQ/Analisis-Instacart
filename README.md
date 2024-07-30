@@ -42,5 +42,6 @@ Para ver el __diccionario de datos, el desarrollo completo en código, todos los
 
 ## <p>Ejecuta el proyecto <a href="https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20Instacart.html" target="_blank">aquí</a>.
 </p>
+
 Para ver el __diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones__, haga click en el enlace de arriba
 
