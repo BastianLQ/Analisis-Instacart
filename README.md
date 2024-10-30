@@ -19,7 +19,7 @@ Este proyecto tiene como objetivo analizar datos de Instacart para extraer infor
 - __Análisis Exploratorio de Datos (EDA):__ Esta fase se centró en analizar la integridad de los datos y rescatar insights valiosos. Utilizando pandas se exploraron los datos para obtener una comprensión inicial, intermedia y avanzada, y con matplotlib, se generaron visualizaciones para ilustrar los hallazgos clave del análisis.
 - __Resultados:__ Se identificaron patrones y tendencias en los datos, como los productos más vendidos y reordenados, y el comportamiento general de los clientes en términos de cantidad de artículos por pedido.
 
-## Conclusiones
+## Relevancia de los descubrimientos
 El análisis de datos de Instacart reveló patrones importantes en el comportamiento de compra de los clientes. Estos insights pueden ser utilizados para optimizar las estrategias de marketing, gestión de inventarios y mejorar la experiencia del cliente.
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20Instacart.html)
