@@ -3,7 +3,7 @@ __Proyecto de análisis a la plataforma de delivery Instacart, análisis explora
 
 <image src="https://github.com/BastianLQ/Analisis-Instacart/blob/main/N3.jpg" alt="Collage de gráficos">
 
-_Fragmentos del notebook, para ver proyecto completo hacer click [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20Instacart.html)_
+_Fragmentos del notebook, para ver proyecto completo hacer click [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P3.html)_
 
 ## Descripción del Proyecto
 Este proyecto tiene como objetivo analizar datos de Instacart para extraer información valiosa sobre el comportamiento de los clientes y las tendencias de los productos. Utilizando [cinco datasets](https://drive.google.com/drive/folders/11ludpzThvf-xB6LfZW_xzCBK1Z91M_KA?usp=sharing) proporcionados por Instacart, se llevó a cabo un proceso de limpieza, análisis y visualización de datos para identificar patrones y tendencias clave.
@@ -22,5 +22,5 @@ Este proyecto tiene como objetivo analizar datos de Instacart para extraer infor
 ## Relevancia de los descubrimientos
 El análisis de datos de Instacart reveló patrones importantes en el comportamiento de compra de los clientes. Estos insights pueden ser utilizados para optimizar las estrategias de marketing, gestión de inventarios y mejorar la experiencia del cliente.
 
-## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20Instacart.html)
+## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P3.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.
