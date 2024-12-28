@@ -21,7 +21,9 @@ Este proyecto tiene como objetivo analizar datos de Instacart para extraer infor
 - __Conclusiones:__ Se recopilan los principales hallazgos y se esbozan perfiles de clientes según los datos recopilados. Además se presentan insights accionables para personalizar la experiencia de usuario de la plataforma.
 
 ## Descubrimientos importantes
-El análisis de datos de Instacart reveló patrones importantes en el comportamiento de compra de los clientes. Estos insights pueden ser utilizados para optimizar las estrategias de marketing, gestión de inventarios y mejorar la experiencia del cliente.
+Comenzaremos listando los resultados en orden inverso al cual fueron descubiertos, comenzando por en análisis de clústeres para terminar con los descubrimientos generales:
+
+### Creación de clústeres
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P3.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.
