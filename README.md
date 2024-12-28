@@ -1,7 +1,7 @@
 # Analisis-Instacart
 __Proyecto de análisis a la plataforma de delivery Instacart, análisis exploratiorio y visualización de datos__
 
-<image src="[https://github.com/BastianLQ/Analisis-Instacart/blob/main/instacart.png](https://github.com/BastianLQ/Analisis-Instacart/blob/main/Images/instacart.png)" alt="Instacart">
+<image src="https://github.com/BastianLQ/Analisis-Instacart/blob/main/Images/instacart.png" alt="Instacart">
 
 _Fragmentos del notebook, para ver proyecto completo hacer click [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P3.html)_
 
