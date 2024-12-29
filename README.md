@@ -25,5 +25,11 @@ Comenzaremos listando los resultados en orden inverso al cual fueron descubierto
 
 ### Creación de clústeres
 
+| Columna 1      | Columna 2      | Columna 3      |
+|----------------|----------------|----------------|
+| Contenido 1-1  | Contenido 1-2  | Contenido 1-3  |
+| Contenido 2-1  | Contenido 2-2  | Contenido 2-3  |
+| Contenido 3-1  | Contenido 3-2  | Contenido 3-3  |
+
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P3.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.
