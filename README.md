@@ -25,11 +25,12 @@ Comenzaremos listando los resultados en orden inverso al cual fueron descubierto
 
 ### Creación de clústeres
 
-| Cluster | Comportamiento | Peaks semanales de compra |
-|----------------|----------------|----------------|
-| Contenido 1-1  | Contenido 1-2  | Contenido 1-3  |
-| Contenido 2-1  | Contenido 2-2  | Contenido 2-3  |
-| Contenido 3-1  | Contenido 3-2  | Contenido 3-3  |
+| Cluster | Tipo de cliente | Peaks semanales de compra | Porcentaje del total |
+|---------|-----------------|---------------------------|----------------------|
+| 0 | Clientes que realizan hartos pedidos de muchos artículos y tienden a repetir los productos | Lunes 10:00 | 38% |
+| 1 | Clientes que realizan pocos pedidos de pocos artículos y repiten los productos | Lunes 10:00 | 32% |
+| 2 | Clientes que realizan pocos pedidos de muchos artículos | Domingo 11:00 y 15:00 | 19% |
+| 3 | Clientes que realizan pocos pedudis de pocos artículos y no repiten los productos | Domingos 15:00 | 11% |
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P3.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.
