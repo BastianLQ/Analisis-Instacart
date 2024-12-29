@@ -25,7 +25,7 @@ Comenzaremos listando los resultados en orden inverso al cual fueron descubierto
 
 ### Creación de clústeres
 
-| Columna 1      | Columna 2      | Columna 3      |
+| Cluster | Comportamiento | Peaks semanales de compra |
 |----------------|----------------|----------------|
 | Contenido 1-1  | Contenido 1-2  | Contenido 1-3  |
 | Contenido 2-1  | Contenido 2-2  | Contenido 2-3  |
