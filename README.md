@@ -24,7 +24,11 @@ Este proyecto tiene como objetivo analizar datos de Instacart para extraer infor
 Comenzaremos listando los resultados en orden inverso al cual fueron descubiertos, comenzando por en análisis de clústeres para terminar con los descubrimientos generales:
 
 ### Creación de clústeres
-
+Lo primero que se hizo para comenzar con el proceso de agrupación, fue determinar cuales serían las variables sobre las que trabajará el algoritmo. Para este caso se escogieron 4:
+- Número de pedidos realizados.
+- Total de productos comprados.
+- Promedio de productos por pedido.
+- Tasa de reordenación (métrica que indica la proporción de los productos que ya habían sido comprados anteriormente)
 | Cluster | Tipo de cliente | Peaks semanales de compra | Porcentaje del total |
 |---------|-----------------|---------------------------|----------------------|
 | 0 | Clientes que realizan muchos pedidos de muchos artículos y tienden a repetir los productos | Lunes 10:00 | 38% |
