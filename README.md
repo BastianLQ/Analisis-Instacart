@@ -24,7 +24,7 @@ Este proyecto tiene como objetivo analizar datos de Instacart para extraer infor
 Comenzaremos listando los resultados en orden inverso al cual fueron descubiertos, comenzando por en análisis de clústeres para terminar con los descubrimientos generales:
 
 ### Creación de clústeres
-Lo primero que se hizo para comenzar con el proceso de agrupación, fue determinar cuales serían las variables sobre las que trabajará el algoritmo. Para este caso se escogieron 4:
+Lo primero que se hizo para comenzar con el proceso de agrupación, fue determinar cuales serían las variables sobre las que trabajará el algoritmo. Para este caso se escogieron las siguientes:
 - Número de pedidos realizados.
 - Total de productos comprados.
 - Promedio de productos por pedido.
