@@ -29,6 +29,7 @@ Lo primero que se hizo para comenzar con el proceso de agrupación, fue determin
 - Total de productos comprados.
 - Promedio de productos por pedido.
 - Tasa de reordenación (métrica que indica la proporción de los productos que ya habían sido comprados anteriormente)
+  
 | Cluster | Tipo de cliente | Peaks semanales de compra | Porcentaje del total |
 |---------|-----------------|---------------------------|----------------------|
 | 0 | Clientes que realizan muchos pedidos de muchos artículos y tienden a repetir los productos | Lunes 10:00 | 38% |
