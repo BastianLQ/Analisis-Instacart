@@ -95,7 +95,28 @@ Y el perfil puede ser dividido en 4 subgrupos:
 - __Clientes ocasionales:__ Este grupo es el menos fiel, realiza pedidos ocasionalmente con pocos artículos. En un 92% de las veces compran productos por primera vez y los que deciden volver a comprar, lo hacen luego de 30 días.
 
 ### Recomendaciones
-
+En base a la información recopilada y en pos de aumentar el beneficio neto y la fidelización de la clientela es que se realizan las siguientes recomendaciones:
+- __Fomentar productos naturales:__ Ofrecer descuentos por volumen, envíos gratis y ofrecer cajas prearmadas personalizadas son ideas sólidas que potenciarán las ventas de estos productos. Compartir recetas inspiradas en los productos más vendidos podría resultar muy interesante también, el hecho de que varias marcas de comida reconocidas realicen esta práctica es un buen indicador de su efectividad.
+- __Personalización por clúster de clientes:__
+  - __Cluster 0 (Frecuentes, pedidos medianos):__ Estrategia: Incentivar la fidelidad y aumentar la cantidad de productos por pedido.
+    - Ofrece descuentos por agregar más ítems (compra 3, lleva 4).
+    - Lanza promociones exclusivas para los lunes por la mañana.
+    - Implementa un programa de suscripción semanal para sus productos más frecuentes.
+Cluster 1 (Pedidos pequeños, regulares):
+Estrategia: Incrementar el tamaño del pedido.
+Ofrece combos para incrementar el número de productos en cada compra.
+Promueve ofertas para compras superiores a un monto mínimo.
+Resalta beneficios por compras recurrentes los lunes a las 10:00.
+Cluster 2 (Pedidos grandes, menos frecuentes):
+Estrategia: Aumentar la frecuencia de compra.
+Envía recordatorios personalizados cerca de los 7 o 30 días tras su última compra.
+Ofrece incentivos como descuentos por compras adicionales dentro del mismo mes.
+Promociona paquetes premium de productos relacionados a sus preferencias.
+Cluster 3 (Pedidos pequeños, ocasionales):
+Estrategia: Reactivar y fidelizar.
+Enviar cupones de descuento exclusivos antes de los domingos.
+Realizar campañas específicas para este segmento, destacando productos con precios competitivos.
+Crear promociones de bienvenida para animarlos a realizar compras más frecuentes. 
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P3.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.
