@@ -41,6 +41,13 @@ Ahora, se visualizarán las diferentes distribuciones horarias y diarias (dia de
 <image src="https://github.com/BastianLQ/Analisis-Instacart/blob/main/Images/output_179_0.png" alt="Plot">
 <image src="https://github.com/BastianLQ/Analisis-Instacart/blob/main/Images/output_180_0.png" alt="Plot">
 
+Se contrastarán también, mediante histogramas, los días que tardan los clientes de cada clúster en volver a hacer un pedido.
+
+<image src="https://github.com/BastianLQ/Analisis-Instacart/blob/main/Images/output_192_0.png" alt="Plot">
+<image src="https://github.com/BastianLQ/Analisis-Instacart/blob/main/Images/output_193_0.png" alt="Plot">
+<image src="https://github.com/BastianLQ/Analisis-Instacart/blob/main/Images/output_194_0.png" alt="Plot">
+<image src="https://github.com/BastianLQ/Analisis-Instacart/blob/main/Images/output_195_0.png" alt="Plot">
+
 Visualizaremos, también, gráficos de dispersión para analizar la relación entre variables y la división de los clústeres.
 
 <image src="https://github.com/BastianLQ/Analisis-Instacart/blob/main/Images/output_169_0.png" alt="Plot">
