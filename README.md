@@ -63,15 +63,20 @@ En base al análisis de clústeres realizado, podemos resumir los hallazgos más
 | 3 | 7.6 | 17.7% | 30 días | Domingos 15:00 | 11% |
 
 Observando la tabla podemos concluir adicionalmente que:
-- Mientras más bajan los días para volver a hacer un pedido, más baja la tasa de reordenación.
-- Los clústeres con la mayor tasa de reordenación (0 y 1) tienen su peak de compras el lunes a las 10:00 (hora de desayuno).
-- La cantidad de productos por pedido no tiene relación con la tasa de reordenación, como se podría suponer.
+- __Mientras más bajan los días para volver a hacer un pedido, más baja la tasa de reordenación.__
+- __Los clústeres con la mayor tasa de reordenación (0 y 1) tienen su peak de compras el lunes a las 10:00 (hora de desayuno).__
+- __La cantidad de productos por pedido no tiene relación con la tasa de reordenación, como se podría suponer.__
 
 ### Hallazgos generales
 Hay descubrimientos que trascienden a los clústeres y cuentan para todos los clientes, tienen relación con los productos favoritos, los cuales se calcularon de las siguientes maneras:
 - Productos más vendidos.
 - Productos más re-ordenados.
 - Productos más veces puestos primero en el carrito.
+
+Estos son los resultados:
+<image src="https://github.com/BastianLQ/Analisis-Instacart/blob/main/Images/output_131_0.png" alt="Plot">
+<image src="https://github.com/BastianLQ/Analisis-Instacart/blob/main/Images/output_141_0.png" alt="Plot">
+<image src="https://github.com/BastianLQ/Analisis-Instacart/blob/main/Images/output_153_0.png" alt="Plot">
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P3.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.
