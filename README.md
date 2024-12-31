@@ -40,6 +40,11 @@ Ahora, se visualizarán las diferentes distribuciones horarias y diarias (dia de
 <image src="https://github.com/BastianLQ/Analisis-Instacart/blob/main/Images/output_178_0.png" alt="Plot">
 <image src="https://github.com/BastianLQ/Analisis-Instacart/blob/main/Images/output_179_0.png" alt="Plot">
 <image src="https://github.com/BastianLQ/Analisis-Instacart/blob/main/Images/output_180_0.png" alt="Plot">
+
+Visualizaremos, también, gráficos de dispersión para analizar la relación entre variables y la división de los clústeres.
+
+<image src="https://github.com/BastianLQ/Analisis-Instacart/blob/main/Images/output_169_0.png" alt="Plot">
+<image src="https://github.com/BastianLQ/Analisis-Instacart/blob/main/Images/output_171_0.png" alt="Plot">
   
 | Cluster | Tipo de cliente | Peaks semanales de compra | Porcentaje del total |
 |---------|-----------------|---------------------------|----------------------|
