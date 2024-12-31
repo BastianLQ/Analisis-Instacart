@@ -79,5 +79,8 @@ Estos son los resultados:
 <image src="https://github.com/BastianLQ/Analisis-Instacart/blob/main/Images/output_141_0.png" alt="Plot">
 <image src="https://github.com/BastianLQ/Analisis-Instacart/blob/main/Images/output_153_0.png" alt="Plot">
 
+Observando estos gráficos podemos concluir que:
+- __Los clientes de Instacart prefieren productos naturales y catalogados como saludables, principalmente bananas, y también frutas, verduras, leche y agua (entre otros).__
+
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P3.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.
