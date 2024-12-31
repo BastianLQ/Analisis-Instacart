@@ -33,6 +33,8 @@ Lo primero que se hizo para comenzar con el proceso de agrupación, fue determin
 Lo que viene después es determinar el número de clústeres (grupos) que serán creados por el algoritmo, para ello, usamos el conocido "método del codo" (explicación en el notebook), con el que determinamos que __el número óptimo de clústeres es 4__.
 
 <image src="https://github.com/BastianLQ/Analisis-Instacart/blob/main/Images/output_165_0.png" alt="Plot">
+
+Ahora, se visualizarán las diferentes distribuciones horarias y diarias (dia de la semana) en que los clientes de los diferentes clústeres hacen sus pedidos.
   
 | Cluster | Tipo de cliente | Peaks semanales de compra | Porcentaje del total |
 |---------|-----------------|---------------------------|----------------------|
