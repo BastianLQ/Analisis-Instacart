@@ -98,22 +98,24 @@ Y el perfil puede ser dividido en 4 subgrupos:
 En base a la información recopilada y en pos de aumentar el beneficio neto y la fidelización de la clientela es que se realizan las siguientes recomendaciones:
 - __Fomentar productos naturales:__ Ofrecer descuentos por volumen, envíos gratis y ofrecer cajas prearmadas personalizadas son ideas sólidas que potenciarán las ventas de estos productos. Compartir recetas inspiradas en los productos más vendidos podría resultar muy interesante también, el hecho de que varias marcas de comida reconocidas realicen esta práctica es un buen indicador de su efectividad.
 - __Personalización por clúster de clientes:__ Definir objetivos para cada clúster tiene el potencial de aumentar significativamente la fidelización de la clientela.
-  - __Cluster 0:__ Incentivar la fidelidad y aumentar la cantidad de productos por pedido.
+  - __Cluster 0, objetivo:__ Incentivar y premiar la fidelidad, y aumentar la cantidad de productos por pedido.
     - Ofrecer descuentos por agregar más ítems (compra 3, lleva 4).
     - Lanzar promociones exclusivas para los lunes por la mañana.
-    - Implementar un programa de suscripción semanal para sus productos más frecuentes.
-  - __Cluster 1:__ Incrementar el tamaño del pedido.
-    - Ofrece combos para incrementar el número de productos en cada compra.
-    - Promueve ofertas para compras superiores a un monto mínimo.
-    - Resalta beneficios por compras recurrentes los lunes a las 10:00.
-  - __Cluster 2:__ Aumentar la frecuencia de compra.
+    - Realizar sorteo de gift cards entre los clientes que un pedido semanal o más.
+  - __Cluster 1, objetivo:__ Incrementar el tamaño del pedido.
+    - Ofrecer combos para incrementar el número de productos en cada compra.
+    - Promover ofertas para compras superiores a un monto mínimo.
+    - Resaltar beneficios por compras recurrentes los lunes a las 10:00.
+  - __Cluster 2, objetivo:__ Aumentar la frecuencia de compra.
     - Envía recordatorios personalizados cerca de los 7 o 30 días tras su última compra.
     - Ofrece incentivos como descuentos por compras adicionales dentro del mismo mes.
-    - Promociona paquetes premium de productos relacionados a sus preferencias.
-  - __Cluster 3:__ Reactivar y fidelizar.
+    - Promocionar paquetes premium de productos relacionados a sus preferencias.
+  - __Cluster 3, objetivo:__ Reactivar y fidelizar.
     - Enviar cupones de descuento exclusivos antes de los domingos.
     - Realizar campañas específicas para este segmento, destacando productos con precios competitivos.
-    - Crear promociones de bienvenida para animarlos a realizar compras más frecuentes. 
+    - Enviar encuestas y ofrecer descuentos personalizados a cambio.
+- __Optimizar la logística y el inventario:__ Sabiendo cuales son los picos semanales, es inminente reforzar con personal en los momentos críticos para una mejor experiencia de cliente.
+- __Análisis y segmentación contínua:__ Realizar expermientos A/B para probar diferentes enfoques de marketing con los diferentes clústers.
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P3.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.
