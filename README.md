@@ -94,5 +94,8 @@ Y el perfil puede ser dividido en 4 subgrupos:
 - __Clientes casuales:__ Estos clientes prefieren realizar un pedido grande por mes, compran tanto productos "nuevos" como ya comprados anteriormente. Este grupo prefiere hacer compras los domingos a las 11:00 y a las 15:00.
 - __Clientes ocasionales:__ Este grupo es el menos fiel, realiza pedidos ocasionalmente con pocos artículos. En un 92% de las veces compran productos por primera vez y los que deciden volver a comprar, lo hacen luego de 30 días.
 
+### Recomendaciones
+
+
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P3.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.
