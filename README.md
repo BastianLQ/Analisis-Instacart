@@ -58,8 +58,8 @@ En base al análisis de clústeres realizado, podemos resumir los hallazgos más
 | Cluster | Tipo de cliente | Días para volver a hacer un pedido | Peaks semanales de compra | Porcentaje del total |
 |---------|-----------------|------------------------------------|---------------------------|----------------------|
 | 0 | Clientes que realizan muchos pedidos de muchos artículos y tienden a repetir los productos | Menor o igual a 7 días | Lunes 10:00 | 38% |
-| 1 | Clientes que realizan pocos pedidos de pocos artículos y repiten los productos | 7 y 30 días | Lunes 10:00 | 32% |
-| 2 | Clientes que realizan pocos pedidos de muchos artículos | 30 y 7 días| Domingo 11:00 y 15:00 | 19% |
+| 1 | Clientes que realizan pocos pedidos de pocos artículos y repiten los productos | Mayoritariamente 7 días, grupo secundario de 30 días | Lunes 10:00 | 32% |
+| 2 | Clientes que realizan pocos pedidos de muchos artículos | Mayoritariamente 30 días, grupo secundario de 7 días | Domingo 11:00 y 15:00 | 19% |
 | 3 | Clientes que realizan pocos pedidos de pocos artículos y no repiten los productos | 30 días | Domingos 15:00 | 11% |
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P3.html)
