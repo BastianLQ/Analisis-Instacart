@@ -85,7 +85,7 @@ Observando estos gráficos podemos concluir que:
 ### Perfil de cliente
 
 Después de toda la investigación realizada podemos esbozar el siguiente perfil:
-- __La clientela de Instacart consume productos naturales y catalogados como saludables, principalmente bananas, frutas en general, verduras y leche.
+- __La clientela de Instacart consume productos naturales y catalogados como saludables, principalmente bananas, frutas en general, verduras y leche.__
 
 Y el perfil puede ser dividido en 4 subgrupos:
 - __Clientes frecuentes:__ Realizan más de un pedido a la semana con una cantidad considerable de artículos, y piden las mismas cosas una y otra vez, recurren a Instacart los lunes a la hora de desayuno.
