@@ -74,6 +74,7 @@ Hay descubrimientos que trascienden a los clústeres y cuentan para todos los cl
 - Productos más veces puestos primero en el carrito.
 
 Estos son los resultados:
+
 <image src="https://github.com/BastianLQ/Analisis-Instacart/blob/main/Images/output_131_0.png" alt="Plot">
 <image src="https://github.com/BastianLQ/Analisis-Instacart/blob/main/Images/output_141_0.png" alt="Plot">
 <image src="https://github.com/BastianLQ/Analisis-Instacart/blob/main/Images/output_153_0.png" alt="Plot">
