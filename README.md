@@ -45,6 +45,8 @@ Visualizaremos, también, gráficos de dispersión para analizar la relación en
 
 <image src="https://github.com/BastianLQ/Analisis-Instacart/blob/main/Images/output_169_0.png" alt="Plot">
 <image src="https://github.com/BastianLQ/Analisis-Instacart/blob/main/Images/output_171_0.png" alt="Plot">
+
+En base al análisis de clústeres realizado, podemos resumir los hallazgos más importantes en la siguiente tabla:
   
 | Cluster | Tipo de cliente | Peaks semanales de compra | Porcentaje del total |
 |---------|-----------------|---------------------------|----------------------|
