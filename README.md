@@ -97,7 +97,7 @@ Y el perfil puede ser dividido en 4 subgrupos:
 ### Recomendaciones
 En base a la información recopilada y en pos de aumentar el beneficio neto y la fidelización de la clientela es que se realizan las siguientes recomendaciones:
 - __Fomentar productos naturales:__ Ofrecer descuentos por volumen, envíos gratis y ofrecer cajas prearmadas personalizadas son ideas sólidas que potenciarán las ventas de estos productos. Compartir recetas inspiradas en los productos más vendidos podría resultar muy interesante también, el hecho de que varias marcas de comida reconocidas realicen esta práctica es un buen indicador de su efectividad.
-- __Personalización por clúster de clientes:__
+- __Personalización por clúster de clientes:__ Definir objetivos para cada clúster tiene el potencial de aumentar significativamente la fidelización de la clientela.
   - __Cluster 0:__ Incentivar la fidelidad y aumentar la cantidad de productos por pedido.
     - Ofrecer descuentos por agregar más ítems (compra 3, lleva 4).
     - Lanzar promociones exclusivas para los lunes por la mañana.
