@@ -53,7 +53,7 @@ En base al análisis de clústeres realizado, podemos resumir los hallazgos más
 | 0 | Clientes que realizan muchos pedidos de muchos artículos y tienden a repetir los productos | Lunes 10:00 | 38% |
 | 1 | Clientes que realizan pocos pedidos de pocos artículos y repiten los productos | Lunes 10:00 | 32% |
 | 2 | Clientes que realizan pocos pedidos de muchos artículos | Domingo 11:00 y 15:00 | 19% |
-| 3 | Clientes que realizan pocos pedudis de pocos artículos y no repiten los productos | Domingos 15:00 | 11% |
+| 3 | Clientes que realizan pocos pedidos de pocos artículos y no repiten los productos | Domingos 15:00 | 11% |
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P3.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.
