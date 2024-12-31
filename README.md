@@ -84,5 +84,14 @@ Observando estos gráficos podemos concluir que:
 
 ### Perfil de cliente
 
+Después de toda la investigación realizada podemos esbozar el siguiente perfil:
+- __La clientela de Instacart consume productos naturales y catalogados como saludables, principalmente bananas, frutas en general, verduras y leche.
+
+Y el perfil puede ser dividido en 4 subgrupos:
+- __Clientes frecuentes:__ Realizan más de un pedido a la semana con una cantidad considerable de artículos, y piden las mismas cosas una y otra vez, recurren a Instacart los lunes a la hora de desayuno.
+- __Clientes casuales, pero fieles:__ Realizan en promedio una cantidad baja de pedidos, con una cantidad acotada de artículos, sin embargo piden las mismas cosas una y otra vez. Al igual que el grupo anterior, recuerren a instacart principalmente los lunes a la hora del desayuno.
+- __Clientes casuales:__ Estos clientes prefieren realizar un pedido grande por mes, compran tanto productos "nuevos" como ya comprados anteriormente. Este grupo prefiere hacer compras los domingos a las 11:00 y a las 15:00.
+- __Clientes ocasionales:__ Este grupo es el menos fiel, realiza pedidos ocasionalmente con pocos artículos. En un 92% de las veces compran productos por primera vez y los que deciden volver a comprar, lo hacen luego de 30 días.
+
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P3.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.
