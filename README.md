@@ -117,5 +117,11 @@ En base a la información recopilada y en pos de aumentar el beneficio neto y la
 - __Optimizar la logística y el inventario:__ Sabiendo cuales son los picos semanales, es inminente reforzar con personal en los momentos críticos para una mejor experiencia de cliente.
 - __Análisis y segmentación contínua:__ Realizar expermientos A/B para probar diferentes enfoques de marketing con los diferentes clústers.
 
+#### Beneficios esperados
+- Mayor satisfacción y fidelización de los clientes.
+- Incremento en el tamaño promedio de los pedidos.
+- Reducción en el tiempo entre pedidos.
+- Optimización de los recursos operativos.
+
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P3.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.
