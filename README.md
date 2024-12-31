@@ -30,7 +30,10 @@ Lo primero que se hizo para comenzar con el proceso de agrupación, fue determin
 - Promedio de productos por pedido.
 - Tasa de reordenación (métrica que indica la proporción de los productos que ya habían sido comprados anteriormente).
 
-Lo que viene después es determinar el número de clústeres (grupos) que serán creados por el algoritmo, para ello, usamos el conocido "método del codo" (explicación en el notebook), con el que determinamos que __el número óptimo de clústeres es 4__. 
+Lo que viene después es determinar el número de clústeres (grupos) que serán creados por el algoritmo, para ello, usamos el conocido "método del codo" (explicación en el notebook), con el que determinamos que __el número óptimo de clústeres es 4__.
+
+#### Tamaño de cada clúster
+<image src="https://github.com/BastianLQ/Analisis-Instacart/blob/main/Images/output_165_0.png" alt="Plot">
   
 | Cluster | Tipo de cliente | Peaks semanales de compra | Porcentaje del total |
 |---------|-----------------|---------------------------|----------------------|
