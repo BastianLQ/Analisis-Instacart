@@ -34,7 +34,7 @@ Lo que viene después es determinar el número de clústeres (grupos) que serán
 
 <image src="https://github.com/BastianLQ/Analisis-Instacart/blob/main/Images/output_165_0.png" alt="Plot">
 
-Ahora, se visualizarán las diferentes distribuciones horarias y diarias (dia de la semana) en que los clientes de los diferentes clústeres hacen sus pedidos.
+Ahora, se visualizarán las diferentes distribuciones horarias y diarias (dia de la semana) en que los clientes de los diferentes clústeres hacen sus pedidos (tener en cuenta que el día 0 corresponde al domingo).
 
 <image src="https://github.com/BastianLQ/Analisis-Instacart/blob/main/Images/output_177_0.png" alt="Plot">
 <image src="https://github.com/BastianLQ/Analisis-Instacart/blob/main/Images/output_178_0.png" alt="Plot">
