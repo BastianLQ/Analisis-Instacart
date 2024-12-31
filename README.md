@@ -68,7 +68,10 @@ Observando la tabla podemos concluir adicionalmente que:
 - La cantidad de productos por pedido no tiene relación con la tasa de reordenación, como se podría suponer.
 
 ### Hallazgos generales
-
+Hay descubrimientos que trascienden a los clústeres y cuentan para todos los clientes, tienen relación con los productos favoritos, los cuales se calcularon de las siguientes maneras:
+- Productos más vendidos.
+- Productos más re-ordenados.
+- Productos más veces puestos primero en el carrito.
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P3.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.
