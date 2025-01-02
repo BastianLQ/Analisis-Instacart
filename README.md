@@ -6,7 +6,7 @@ __Proyecto de análisis a la plataforma de delivery Instacart, análisis explora
 _Para ver desarrollo en código hacer click [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P3.html)_
 
 ## Descripción del Proyecto
-Este proyecto tiene como objetivo analizar datos de Instacart para extraer información valiosa sobre el comportamiento de los clientes. Utilizando [cinco datasets](https://drive.google.com/drive/folders/11ludpzThvf-xB6LfZW_xzCBK1Z91M_KA?usp=sharing) proporcionados por la plataforma, se llevó a cabo un proceso de limpieza, análisis y visualización de datos para identificar patrones y tendencias clave.
+En este proyecto, se simula ser analista de datos de la reconocida plataforma de delivery Instacart, la misión de este proyecto es extraer información valiosa sobre el comportamiento de los clientes. Utilizando [cinco datasets](https://drive.google.com/drive/folders/11ludpzThvf-xB6LfZW_xzCBK1Z91M_KA?usp=sharing) proporcionados por la plataforma, se llevó a cabo un proceso de limpieza, análisis y visualización de datos para identificar patrones y tendencias clave, además, se hacen diversas recomendaciones que podrían potenciar el negocio.
   
 ## Herramientas Utilizadas
 - __Lenguaje de Programación:__ Python.
