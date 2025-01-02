@@ -1,4 +1,4 @@
-# Analisis-Instacart
+# Analisis de perfil de cliente: Instacart
 __Proyecto de análisis a la plataforma de delivery Instacart, análisis exploratiorio y visualización de datos__
 
 <image src="https://github.com/BastianLQ/Analisis-Instacart/blob/main/Images/instacart.png" alt="Instacart">
