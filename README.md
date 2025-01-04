@@ -3,7 +3,7 @@ __Análisis de perfil de cliente y segmentación con clustering a Instacart__
 
 <image src="https://github.com/BastianLQ/Analisis-Instacart/blob/main/Images/instacart.png" alt="Instacart">
 
-_Para ver desarrollo en código hacer click [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P3.html)_
+_Para ver desarrollo en código hacer click [aquí](https://github.com/BastianLQ/Analisis-Instacart/blob/main/Notebook.ipynb)_
 
 ## Descripción del Proyecto
 En este proyecto, se simula ser analista de datos de la reconocida plataforma de delivery Instacart, la misión de este proyecto es extraer información valiosa sobre el comportamiento de los clientes. Utilizando [cinco datasets](https://drive.google.com/drive/folders/11ludpzThvf-xB6LfZW_xzCBK1Z91M_KA?usp=sharing) proporcionados por la plataforma, se llevó a cabo un proceso de limpieza, análisis y visualización de datos para identificar patrones y tendencias clave, además, se hacen diversas recomendaciones que podrían potenciar el negocio.
@@ -123,5 +123,5 @@ En base a la información recopilada y en pos de aumentar el beneficio neto y la
 - Reducción en el tiempo entre pedidos.
 - Optimización de los recursos operativos.
 
-## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/P3.html)
+## Ejecuta el proyecto [aquí](https://github.com/BastianLQ/Analisis-Instacart/blob/main/Notebook.ipynb)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.
